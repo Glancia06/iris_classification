@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# IRIS FLOWER CLASSIFICATION PROJECT
 
-You can use the [editor on GitHub](https://github.com/Glancia06/iris_classification/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Project:Iris flower classification using Machine Learning
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Machine Learning in python:
 
-### Markdown
+Machine learning is is the kind of programming which gives computers the capability to automatically learn from data without being explicitly programmed. This means in other words that these programs change their behaviour by learning from data.Machine learning as a very likely approach to achieve human-computer integration and can be applied
+in many computer fields. Machine learning is not a typical method as it contains many different computer algorithms. Different algorithms aim to solve different machine learning tasks. At last, all the algorithms can help the computer to act more like a human. Machine learning is already applied in many fields, for instance, pattern recognition, Artificial Intelligence, computer vision, data mining, text categorization and so on. Machine learning gives a new way to develop the intelligence of the machines. It also becomes an easier way to help people to analyse data from huge data sets.
+Following are the steps involved in creating a well-defined ML project:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Understand and define the problem
+Analyse and prepare the data
+Apply the algorithms
+Reduce the errors
+Predict the result
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## IRIS FLOWER CLASSIFACTION
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper. The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample (in centimetres):
 
-**Bold** and _Italic_ and `Code` text
+Length of the sepals
 
-[Link](url) and ![Image](src)
-```
+Width of the sepals
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Length of the petals
 
-### Jekyll Themes
+Width of the petals.
+The aim is to classify iris flowers among three species (setosa, versicolor, or virginica) from measurements of sepals and petals' length and width.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Glancia06/iris_classification/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This Repository contains the Iris Dataset Project created by using 6 different Machine Learning Algorithms.
 
-### Support or Contact
+Classification Algorithms used:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Logistic Regression (LR)
+Super Vector Machine (SVM)
+Decision Tree
+K-Nearest Neighbor (KNN)
+Random Forest 
+Naive Bayes
+
+
+
