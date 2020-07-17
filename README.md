@@ -27,6 +27,7 @@ Width of the sepals
 Length of the petals
 
 Width of the petals.
+
 The aim is to classify iris flowers among three species (setosa, versicolor, or virginica) from measurements of sepals and petals' length and width.
 
 This Repository contains the Iris Dataset Project created by using 6 different Machine Learning Algorithms.
