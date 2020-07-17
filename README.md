@@ -34,10 +34,15 @@ This Repository contains the Iris Dataset Project created by using 6 different M
 Classification Algorithms used:
 
 Logistic Regression (LR)
+
 Super Vector Machine (SVM)
+
 Decision Tree
+
 K-Nearest Neighbor (KNN)
+
 Random Forest 
+
 Naive Bayes
 
 
